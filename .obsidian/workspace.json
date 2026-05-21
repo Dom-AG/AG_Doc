@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "ce83e0d9df04062a",
+    "type": "split",
+    "children": [
+      {
+        "id": "262218dc8ac1aca9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca5a24e52a058903",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe3625a74fd52f12",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bc826259f2a9f64",
+        "type": "tabs",
+        "dimension": 64.24242424242425,
+        "children": [
+          {
+            "id": "b3ab9926fe4516cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ef7afac3a9590d23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cb8139632e96920a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ffde2b06cc43cf1f",
+        "type": "tabs",
+        "dimension": 35.75757575757576,
+        "children": [
+          {
+            "id": "35b25e355a77ffc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_RnD/Ideas/Fashion Outfits and Products.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fashion Outfits and Products"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 1356.5
+  },
+  "right": {
+    "id": "db3509200a23c556",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac6177a6886ea164",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ead452682447912",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "07_RnD/Ideas/Fashion Outfits and Products.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Fashion Outfits and Products"
+            }
+          },
+          {
+            "id": "e5644c96103282be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f52b135c066d71c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2ba404931c1ed4b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "35b25e355a77ffc5",
+  "lastOpenFiles": [
+    "Tasks/Render Engines.md",
+    "Software/ComfyUI.md",
+    "Software/After Effects.md",
+    "Software/Blender.md",
+    "06_Engineering/Test Env.md",
+    "06_Engineering/Services Node Plan.md",
+    "06_Engineering/OS Management.md",
+    "06_Engineering/Hosting.md",
+    "06_Engineering/Development Workflow.md",
+    "99_Images/Pasted image 20260318170143.png",
+    "05_Pipeline/Pipeline.base",
+    "05_Pipeline/Rez Pipeline Integration.md",
+    "05_Pipeline/Development Plan.md",
+    "03_Data_Models/Data Models.md",
+    "02_Features/Producer Calendar View.md",
+    "02_Features/People and Skills.md",
+    "02_Features/Bid Form Spec.md",
+    "01_Architecture/Architecture Overview.md",
+    "99_Images/1b6a17155550935.635702ee8294b.gif",
+    "99_Images/3d9a80155550935.635702ee83386.gif",
+    "99_Images/7c200f98774657.5ee3994bd77ae.webp",
+    "99_Images/27449f155550935.6356f015db95f.webp",
+    "99_Images/55383698774657.5ee3994bd6d34.webp",
+    "99_Images/Adobe Express - Bloom_01_v02.gif",
+    "99_Images/Adobe Express - Large_Blossom_Blue_v03.gif",
+    "99_Images/c634c4155550935.6356f014e97bf 1.webp",
+    "99_Images/Crowd.jpg",
+    "05_Pipeline/Pipeline Map.canvas",
+    "06_Engineering",
+    "05_Pipeline",
+    "03_Data_Models",
+    "02_Features/Views and Notifications.md",
+    "02_Features",
+    "01_Architecture",
+    "00_Index/HOME.md",
+    "00_Index",
+    "Software/Nuke.md",
+    "08_AI",
+    "Untitled 1.md",
+    "Untitled.canvas",
+    "Terminal.md",
+    "Project Problems.md",
+    "Linux.md",
+    "Launcher.md",
+    "IT Plan.md",
+    "Evaluation.md",
+    "Untitled.base",
+    "Tasks"
+  ]
+}
