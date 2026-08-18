@@ -159,14 +159,11 @@ Artists never run `rez-build`. Only consume released packages.
 
 ---
 
-## Sprint 1 Tasks (Foundation)
+## Current Status
 
-- [ ] Write `rezconfig.py` with correct NAS paths
-- [ ] Write working `houdini/20.5.584/package.py` pointing at `/opt/hfs20.5.584`
-- [ ] Fix `Launcher/plugins/environment.py` — replace subprocess with Python API
-- [ ] Verify: `rez-env houdini-20.5.584 -- houdini` launches correctly
+🟢 REZ packaging is complete, including OCIO presets, environment variables, and app definitions.
 
-Not in Sprint 1: ag_core, ag_houdini, FastAPI integration, model sync.
+The remaining delivery work is tracked in [[Pipeline Handover Checklist]]: production DCC environments and launcher project/DCC setup are still to do.
 
 ---
 

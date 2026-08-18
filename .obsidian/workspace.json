@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Pipeline/Tasks/Rez Pipeline Integration.md",
+                "file": "05_Pipeline/Development Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rez Pipeline Integration"
+              "title": "Development Plan"
             }
           }
         ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05_Pipeline/Tasks/Rez Pipeline Integration.md",
+                "file": "05_Pipeline/Development Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,10 +193,13 @@
   },
   "active": "ca5a24e52a058903",
   "lastOpenFiles": [
-    "05_Pipeline/Tasks/Automated AI pitch workflows.md",
+    "05_Pipeline/Tasks/Task Management.md",
+    "05_Pipeline/Tasks/Synnology Folder Permissions.md",
     "05_Pipeline/Tasks/Rez Pipeline Integration.md",
     "05_Pipeline/Tasks/Honda.md",
-    "05_Pipeline/Tasks/Task Management.md",
+    "05_Pipeline/Tasks/Automated AI pitch workflows.md",
+    "05_Pipeline/Pipeline Handover Checklist.md",
+    "issues",
     "05_Pipeline/Priorities.md",
     "05_Pipeline/Development Plan.md",
     "05_Pipeline/Pipeline Map.canvas",
@@ -210,7 +213,6 @@
     "02_Features/People and Skills.md",
     "02_Features/Bid Form Spec.md",
     "02_Features/Views and Notifications.md",
-    "05_Pipeline/Tasks/Synnology Folder Permissions.md",
     "06_Engineering/OS Management.md",
     "06_Engineering/Hosting.md",
     "06_Engineering/Development Workflow.md",
@@ -239,7 +241,6 @@
     "01_Architecture",
     "00_Index",
     "08_AI",
-    "Untitled.canvas",
-    "Untitled.base"
+    "Untitled.canvas"
   ]
 }

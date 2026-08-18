@@ -11,6 +11,7 @@
 - [[Project View]]
 - [[Artist Kanban View]]
 - [[Notifications]]
+- [[Pipeline Handover Checklist]]
 - [[Rez Pipeline Integration]]
 - [[Storage Strategy]]
 - [[Services Node Plan]]
@@ -22,27 +23,24 @@
 
 ## Status
 
-| Area | Status | Owner |
-|---|---|---|
-| Architecture | ✅ Decided | Domantas |
-| Data Models | ✅ Decided | Domantas |
-| Bid Form | 🔄 Speccing | Domantas + Charlotte |
-| Producer Calendar | 🔄 Speccing | Domantas + Charlotte |
-| Artist Kanban | 📋 Planned | Domantas |
-| Project View | 📋 Planned | Domantas |
-| Rez Integration | 🔄 In Progress | Domantas |
-| UI Style | ✅ Decided | Domantas |
+Current delivery status lives in [[Pipeline Handover Checklist]].
+
+| Area | Status |
+|---|---|
+| REZ packaging | 🟢 Done |
+| Relay database | 🟢 Done |
+| Scoro API hooks to Relay | 🟢 Done |
+| Schedule view for calendar | 🟡 Needs testing |
+| Render Blades Deadline submitter | 🟡 Needs work |
+| Relay allocations and task management | ⚪ Not started |
 
 ---
 
-## Build Phases
+## Current Priorities
 
-1. **Phase 1** — [[Bid Form Spec]] + People/Skills/Rates
-2. **Phase 2** — [[Producer Calendar View]] (Xytech-style scheduler)
-3. **Phase 3** — [[Project View]] (Gantt, shot-level)
-4. **Phase 4** — [[Artist Kanban View]] + time tracking
-5. **Phase 5** — AI integration + reporting
-6. **Phase 6** — Asset versioning + review pipeline
+1. Test the schedule view and complete the Render Blades Deadline submitter.
+2. Refine folder structure and connect DCC metadata/content data.
+3. Set up production DCC environments and launcher project environments.
 
 ---
 
