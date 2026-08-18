@@ -19,16 +19,16 @@ tags: #planning #roadmap #pipeline
 
 ## Stack Reference
 
-| Layer | Technology |
-|---|---|
-| Backend | FastAPI + PostgreSQL + SQLAlchemy + Alembic |
-| Task Queue | Celery 5 + Redis 7 |
-| Desktop UI | PySide6 |
-| Environment | Rez 3.x (system tool) |
-| HTTP Client | httpx (async) |
-| Auth | FastAPI-Users + JWT |
-| Notifications | QSystemTrayIcon + WebSockets |
-| Packaging | PyInstaller (per platform) |
+| Layer         | Technology                                  |
+| ------------- | ------------------------------------------- |
+| Backend       | FastAPI + PostgreSQL + SQLAlchemy + Alembic |
+| Task Queue    | Celery 5 + Redis 7                          |
+| Desktop UI    | PySide6                                     |
+| Environment   | Rez 3.x (system tool)                       |
+| HTTP Client   | httpx (async)                               |
+| Auth          | FastAPI-Users + JWT                         |
+| Notifications | QSystemTrayIcon + WebSockets                |
+| Packaging     | PyInstaller (per platform)                  |
 
 ---
 
